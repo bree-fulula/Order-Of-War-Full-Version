@@ -241,3 +241,6 @@ This repository serves as the official landing page for Order of War. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Order of War today!**
+
+---
+**Last updated:** 2026-09-08 20:35:01 UTC
