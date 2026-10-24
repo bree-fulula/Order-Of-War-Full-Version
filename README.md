@@ -243,4 +243,4 @@ This repository serves as the official landing page for Order of War. The softwa
 **Get the most recent version of Order of War today!**
 
 ---
-**Last updated:** 2026-10-24 12:23:43 UTC
+**Last updated:** 2026-10-24 16:24:08 UTC
